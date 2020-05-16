@@ -1,0 +1,1 @@
+web:gunicorn showprime.wsgi --log-file - 
